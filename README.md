@@ -1,5 +1,7 @@
 # aws-server
 
+Created to learn and understand the process of AWS deployment.
+
 ## Server link
 Banana-env.eba-7wpej32a.us-west-2.elasticbeanstalk.com
 
